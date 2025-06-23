@@ -1,8 +1,6 @@
 #include <stdlib.h>
 #include <string.h>
-
 #include "snekobject.h"
-
 
 
 snek_object_t *new_snek_vector3(snek_object_t *x, snek_object_t *y, snek_object_t *z) 
